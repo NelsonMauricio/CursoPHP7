@@ -1,0 +1,13 @@
+- botao direito na pasta, selecione GIT BASH HERE
+
+- comando para clonar um repositório = git clone "url"
+(obs.: caso queira clonar o conteudo direto pra uma pasta específica é somente apos a "url" colocar o nome da pasta. EX  "url" projeto.
+
+
+- transformar sua pasta em repositório: comando git init
+
+- adicionar um arquivo na sala de espera(stage area) para mandar pro repositorio online, comando: git add "arquivo", exemplo: git add index.php
+
+- adicionar e atualizar tudo, comando: git add --all
+
+- mandar pro repositório, comando: git commit -m "texto"
